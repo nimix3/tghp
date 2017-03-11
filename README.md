@@ -14,7 +14,49 @@ This is full implemented library that handles telegram api and protocol in PHP e
 
 - schema: Layer 57
 
-
+tghp.SetStatusOnline
+tghp.SendTyping
+tghp.SendMessageMass
+tghp.SendMessage
+tghp.SendMessageWhatsApp
+tghp.SendMessageWhatsAppMass
+tghp.CreateGroupChat
+tghp.ChatInfo
+tghp.RenameChat
+tghp.ChatAddUser
+tghp.ChatDeleteUser
+tghp.SetProfileName
+tghp.BlockUser
+tghp.UnBlockUser
+tghp.MarkRead
+tghp.GetUserInfo
+tghp.GetDialogList
+tghp.GetHistory
+tghp.SetUsername
+tghp.SetProfilePhoto
+tghp.SendPhoto
+tghp.SendVideo
+tghp.SendAudio
+tghp.SendTex
+tghp.SendFile
+tghp.SendDocument
+tghp.SendPhotoMass
+tghp.SendVideoMass
+tghp.SendFileMass
+tghp.SendLocation
+tghp.SendContact
+tghp.APIGetLimits
+tghp.APIGetCredits
+tghp.APIGetIP
+tghp.APISetIP
+tghp.APIChangeSecret
+tghp.APIGetRobot
+tghp.APIGetActive
+tghp.APIGetUsername
+tghp.APIisSuper
+tghp.APIcanGet
+tghp.APIGetAds
+tghp.APIGetReport
 
 
 ### API, Protocol documentation
