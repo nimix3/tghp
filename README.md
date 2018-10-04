@@ -5,7 +5,7 @@ This is full implemented library that handles telegram api and protocol in PHP e
 
 ### Authors:
 
-- NIMIX3 (Nima Akhlaghi)
+- @NIMIX3 (Nima Akhlaghi)
 
 
 
